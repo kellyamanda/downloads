@@ -218,8 +218,3 @@ st.write(
     "package repository, i.e. where `pip install streamlit` downloads the package from)."
 )
 main()
-
-# if __name__ == "__main__":
-#     st.set_page_config(page_title="Python Downloads Tracker", page_icon="📈")
-#     st.title("📈 Python Downloads Tracker")
-#     main()
